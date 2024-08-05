@@ -11,7 +11,7 @@ lang: es
 
 # Horario de clases
 
-Lunes y miércoles de 1100 a 1220 en el TBA
+Lunes y miércoles de 1100 a 1220 en el R_111
 
 # Equipo académico
 
@@ -25,8 +25,8 @@ Jonathan Leonardo Begambre Rodriguez
 **Correo electrónico:** j.begambre@uniandes.edu.co  
 
 **Monitor:**
-XXXX XXXXX  
-**Correo electrónico:** j.begambre@uniandes.edu.co  
+Samuel Rincón González  
+**Correo electrónico:** s.rincong2@uniandes.edu.co  
 
 # Descripción del curso
 
@@ -61,15 +61,19 @@ Este curso proporciona al estudiante un ambiente de formación flexible, para qu
 
 El curso tiene una carga académica de 3 créditos correspondiente a una dedicación semanal de 9 horas. Las horas de dedicación semanal del curso se distribuyen de la siguiente manera:
 
-
 | Actividad                      | Horas por semana |
 | ------------------------------ | ---------------- |
 | Clase presencial               | 3 h              |
 | Trabajo dirigido (laboratorio) | 1,5 h            |
-| Trabajo autónomo               | 4,5 h            |
+| Trabajo autónomo               | 4,5 h            |  
+
 # Texto Guía y otras referencias
 
 * Yunus A. Çengel, John Cimbala and Robert H. Turner. Fundamentals of Thermal-fluid Sciences, McGraw-Hill, 2017. Fifth edition.
+
+Notas de clase y modelos computacionales:
+
+[Repositorio del curso](https://github.com/andresgm/ua-imec1201-tf1-202420)
 
 Se recomienda además la siguiente bibliografía:
 
@@ -78,7 +82,6 @@ Se recomienda además la siguiente bibliografía:
 * Sonntag, R.E., Borgnakke, C., & Van Wylen, G.J. Fundamentals of Thermodynamics, 7th Edition, John Wiley & Sons, 2008.
 
 # Contenido
-
 
 | Clase | Fecha | Tema                                                                                                                                                                          | Lectura        | Actividad |
 | ----- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------- |
