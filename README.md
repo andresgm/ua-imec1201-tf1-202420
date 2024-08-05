@@ -9,6 +9,11 @@ keywords:
 lang: es
 ---
 
+Termofluidos 1  
+Departamento de Ingeniería Mecánica  
+Universidad de los Andes  
+Segundo semestre de 20224  
+
 # Horario de clases
 
 Lunes y miércoles de 1100 a 1220 en el R_111
@@ -73,7 +78,7 @@ El curso tiene una carga académica de 3 créditos correspondiente a una dedicac
 
 Notas de clase y modelos computacionales:
 
-[Repositorio del curso](https://github.com/andresgm/ua-imec1201-tf1-202420)
+[Repositorio del curso en Github](https://github.com/andresgm/ua-imec1201-tf1-202420)
 
 Se recomienda además la siguiente bibliografía:
 
