@@ -45,8 +45,8 @@ Cálculo diferencial e Introducción a la Ingeniería Mecánica.
 
 Al finalizar el curso el estudiante estará en capacidad para:
 
-1. Aplicar los principios básicos de la primera y segunda ley de la termodinámica en sistemas térmicos.
-2. Determinar las propiedades termodinámicas (incluyendo sus cambios) en sustancias puras, gases ideales y sustancias incompresibles.
+1. Aplicar los principios básicos de la primera y segunda ley de la termodinámica al modelamiento de sistemas térmicos.
+2. Determinar las propiedades termodinámicas (incluyendo sus cambios) en sustancias puras, gases ideales y sustancias incompresibles, y usarlas para describir su estado termodinámico.
 3. Aplicar los conceptos de la conservación de la cantidad de movimiento para entender el comportamiento estático de los fluidos.
 4. Aplicar los conceptos de la energía y la cantidad de movimiento en el caso de flujos incompresibles e ideales (sin fricción) para analizar problemas de flujo. 
 
